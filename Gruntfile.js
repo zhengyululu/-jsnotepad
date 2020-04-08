@@ -35,7 +35,7 @@ module.exports=function(grunt){
             },
             files:{
                 src:'./index.html',
-                dest:'dist/index.min.html'
+                dest:'dist/index.html'
             }
         },
         cssmin:{
