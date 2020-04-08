@@ -6,7 +6,7 @@
 var np = {};                // Notepad 主程序对象
 
 np.config = {
-    'appContainer': '.notepad-app'
+  'appContainer': '.notepad-app'
 };
 
 np.bShowStatusBar = false;   // 是否显示状态栏
